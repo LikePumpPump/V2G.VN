@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" 	"icon\khok"
+	"$spriteorigin"          "[ 0.50 0.50 ]"
+	"$translucent" 	"1"
+	"$alpha"		"1"
+	"$vertexalpha"	"1"
+	"$ignorez" 	"1"
+	"$no_fullbright" 	"1"
+	"$vertexcolor" 	"1"
+	"$color" 	 	"[1.2 1.2 1.2]"
+}
